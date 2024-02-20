@@ -4,5 +4,11 @@ public class SolarSystem {
         solar.Stars="100";
         solar.Moon="4";
         solar.Plannets="2";
+
+        FeatureSun fs = new FeatureSun();
+        fs.color="Tangerine";
+        fs.size="BiggerDenAMuthaFugguh!";
+        fs.temperature="HottaThanABihhOutHere";
+        
     }
 }
